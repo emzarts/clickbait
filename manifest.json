@@ -1,0 +1,12 @@
+{
+  "name": "Clickbait",
+  "description": "My first Chrome App.",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js", "script.js"]
+    }
+  },
+  "icons": { "16": "potato-16.png", "128": "potato-128.png" }
+}
